@@ -1,4 +1,1 @@
-# market-volatility-analysis
-Fintech-focused market time-series and volatility analysis using Python language
-Market data sourced from Yahoo Finance due to accessibility; analysis methdology is platform agnostic and transferable to institutional data feeds.
-Initial attempts using Yahoo Finance were affected by rate-limiting, so the pipeline was adapted to use Stooq via pandas-datareader for improved reliability.
+Conducted summer research analyzing an AI and semiconductor stock portfolio using Python, Pandas, NumPy, and financial data from Yahoo Finance. Applied CAPM and Fama–French three-factor regression models to monthly returns to evaluate how market, size, and value factors explained portfolio performance. Compared equal-weighted and risk-based allocation strategies using asset variances and correlations, and presented findings through data visualizations and statistical analysis.
